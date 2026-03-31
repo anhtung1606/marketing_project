@@ -1,9 +1,11 @@
 
 ## 🌐 👉 [Xem Website dự án tại đây](https://anhtung1606.github.io/Marketing_analytic_project/)
 
-# 📊 Marketing Analytics Project – ShopEasy
+---
 
-## 📌 Giới thiệu dự án
+#  Marketing Analytics Project – ShopEasy
+##  Giới thiệu dự án
+<img width="540" height="414" alt="Ảnh màn hình 2026-03-31 lúc 11 08 37" src="https://github.com/user-attachments/assets/14baf177-acb1-4525-84aa-bf327e20d805" />
 
 Đây là một **Marketing Data Analytics Case Study** được thực hiện nhằm phân tích hiệu quả các chiến dịch marketing và hành vi khách hàng của doanh nghiệp bán lẻ online **ShopEasy**.
 
