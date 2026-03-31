@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://anhtung1606.github.io/Marketing_analytic_project/">
-    <img src="https://img.shields.io/badge/🌐%20Xem%20Website%20dự%20án%20tại%20đây-Click-blue?style=for-the-badge" />
-  </a>
-</p>
+
+## 🌐 👉 [Xem Website dự án tại đây](https://anhtung1606.github.io/Marketing_analytic_project/)
 
 # 📊 Marketing Analytics Project – ShopEasy
 
