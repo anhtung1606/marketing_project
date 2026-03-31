@@ -22,18 +22,6 @@ Dự án mô phỏng quy trình làm việc thực tế của một **Data Analy
 ---
 
 ## 📂 Dataset
-
-### Nguồn dữ liệu
-
-Dữ liệu được mô phỏng từ hệ thống doanh nghiệp, bao gồm:
-
-- CRM (Customer Data)
-- Website Tracking (Engagement Data)
-- Marketing Campaign Data
-- Product Catalog
-
----
-
 ### Cấu trúc dữ liệu
 
 Dự án gồm **5 bảng dữ liệu (CSV)**:
@@ -46,29 +34,17 @@ Dự án gồm **5 bảng dữ liệu (CSV)**:
 | engagement_data | Dữ liệu tương tác |
 | customer_journey | Hành trình khách hàng |
 
----
-
-### Các biến chính
-
-- `CustomerID` – ID khách hàng  
-- `ProductID` – ID sản phẩm  
-- `VisitDate` – Ngày truy cập  
-- `Stage` – Giai đoạn trong funnel  
-- `EngagementScore` – Mức độ tương tác  
-- `Conversion` – Trạng thái chuyển đổi  
-
----
-
 ## 🛠️ Công cụ sử dụng
 
 - **MySQL**: Làm sạch, join và xử lý dữ liệu  
-- **Python (Pandas, Matplotlib)**: Phân tích dữ liệu & trực quan hóa  
-- **Power BI**: Xây dựng dashboard  
-- **GitHub**: Lưu trữ và trình bày dự án  
+- **Python (Pandas,NLTK)**: Phân tích đánh giá của khách hàng
+- **Power BI**: Xây dựng dashboard
+-  **Website**: trình bày dự án  
+- **GitHub**: Lưu trữ dự án 
 
 ---
 
-## 🔄 Quy trình thực hiện
+## Quy trình thực hiện
 
 ### 1. Data Cleaning (SQL)
 
@@ -81,60 +57,29 @@ Dự án gồm **5 bảng dữ liệu (CSV)**:
 ---
 
 ### 2. Data Analysis (Python)
+#### Tổng quan về quá trình xử lý và phân tích dữ liệu bằng Python
 
-#### 📊 Funnel Analysis
-
-- Phân tích các bước:
-  - View → Click → Add to Cart → Purchase
-- Tính tỷ lệ chuyển đổi giữa các bước
-
-👉 **Insight**:  
-Drop mạnh ở bước **Add to Cart → Purchase** → Vấn đề ở giai đoạn thanh toán
-
----
-
-#### 📈 Engagement Analysis
-
-- Phân tích mức độ tương tác của khách hàng
-- So sánh giữa các nhóm khách hàng
-
-👉 **Insight**:  
-Tồn tại nhóm khách hàng **engagement cao nhưng không chuyển đổi** → cơ hội remarketing
-
----
-
-#### 🛍️ Product Analysis
-
-- Xác định sản phẩm có:
-  - Lượt xem cao nhưng không bán được
-  - Tỷ lệ chuyển đổi cao
-
-👉 **Insight**:  
-Một số sản phẩm cần tối ưu về **giá, nội dung hoặc UX**
-
+- Sử dụng thư viện Pandas để load dữ liệu, kiểm tra cấu trúc và xử lý các giá trị thiếu, sai
+- Sử dụng thư viện NLTK để phân tích đánh giá của khách hàng
+- Phân loại các đánh giá theo từng nhóm khác nhau
+🎯  **Mục Tiêu**:  
+- Làm sạch dữ để đưa vào bước tiếp theo
+- Lượng hóa thái độ của nội dung đánh giá củakhách hàng
+- Phân loại nhãn cho từng đánh giá 
 ---
 
 ### 3. Data Visualization (Power BI)
 
 Dashboard gồm các phần:
-
-- Tổng quan hiệu quả marketing
-- Funnel chuyển đổi
-- Phân tích hành vi khách hàng
-- Hiệu suất sản phẩm
+- Dashboard Tổng quan (Overall)
+- Dashboard Tỉ lệ chuyển đổi (Conversion rate)
+- Dashboard Mạng xã hội (Social media)
+-Dashboard Đánh giá (Rating)
 
 ---
 
 ## 📊 Dashboard Highlights
 
-- Engagement cao nhưng conversion thấp  
-→ Vấn đề ở giai đoạn cuối funnel  
-
-- Drop lớn tại bước thanh toán  
-→ Cần tối ưu UX/UI hoặc quy trình checkout  
-
-- Một số sản phẩm có view cao nhưng conversion thấp  
-→ Cần cải thiện nội dung hoặc pricing  
 
 ---
 
