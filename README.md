@@ -102,3 +102,5 @@ Dashboard gồm các phần:
 - Kỹ năng: SQL | Python | Power BI | Data Visualization  
 
 ---
+## Xem dự án :
+## [Xem Website dự án tại đây](https://anhtung1606.github.io/Marketing_analytic_project/)
