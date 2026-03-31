@@ -1,4 +1,4 @@
-#**📄 Xem Website dự án tại đây:  
+**📄 Xem Website dự án tại đây:  
 [Marketing_analytic_project](https://anhtung1606.github.io/Marketing_analytic_project/)**
 
 # 📊 Marketing Analytics Project – ShopEasy
@@ -138,14 +138,6 @@ Dashboard gồm các phần:
 
 ---
 
-## 📌 Kết luận
-
-- Marketing campaigns tạo được traffic nhưng chưa tối ưu chuyển đổi  
-- Hành vi khách hàng cho thấy tiềm năng remarketing lớn  
-- Điểm nghẽn chính nằm ở giai đoạn **Add to Cart → Purchase**
-
----
-
 ## 💡 Đề xuất
 
 - Tối ưu UX/UI trang thanh toán  
@@ -155,25 +147,10 @@ Dashboard gồm các phần:
 
 ---
 
-## 🚀 Định hướng phát triển
-
-- Xây dựng mô hình dự đoán conversion (Machine Learning)  
-- Cá nhân hóa trải nghiệm khách hàng  
-- Tối ưu chiến lược marketing theo từng phân khúc  
-
----
-
-## 🔗 Project Link
-
-👉 GitHub Repository:  
-https://github.com/anhtung1606/marketing_project
-
----
-
 ## 👨‍💻 Tác giả
 
-**Tùng Bùi**  
-- Data Analyst (Fresher)  
+**Anh Tùng**  
+- Data Analyst (Intern)  
 - Kỹ năng: SQL | Python | Power BI | Data Visualization  
 
 ---
