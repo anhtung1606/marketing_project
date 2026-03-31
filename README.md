@@ -80,15 +80,18 @@ Dashboard gồm các phần:
 
 ## 📊 Dashboard Highlights
 
-
+- Cung cấp cái nhìn toàn diện về tất cả chỉ số kinh doanh cốt lõi (conversion, tương tác mạng xã hội, đánh giá khách hàng) 
+- Theo dõi và so sánh hiệu quả chuyển đổi theo từng tháng và từng sản phẩm để xác định thời điểm và danh mục có hiệu suất tốt 
+- Đánh giá hiệu quả các hoạt động truyền thông qua 3 chỉ số Views, Likes, Clicks theo từng kênh quảng cáo và từng sản phẩm.
+-  Phân tích mức độ hài lòng của khách hàng thông qua điểm rating, phân bố sentiment và nội dung phản hồi thực tế.
 ---
 
 ## 💡 Đề xuất
 
-- Tối ưu UX/UI trang thanh toán  
-- Triển khai chiến dịch remarketing  
-- Cải thiện nội dung & giá sản phẩm  
-- A/B Testing landing page và checkout flow  
+- Tăng tỷ lệ chuyển đổi : Nhắm Đến Các Danh Mục Sản Phẩm Hiệu Suất Cao: Tập trung nỗ lực marketing vào các sản phẩm có tỷ lệ chuyển đổi cao đã được chứng minh, như Thuyền Kayak, Giày Trượt Tuyết và Găng Tay Bóng Chày. Triển khai các chương trình khuyến mãi theo mùa hoặc chiến dịch cá nhân hóa trong các tháng cao điểm (ví dụ: tháng 12 và tháng 1) để tận dụng các xu hướng này.
+- Tăng Cường Tương Tác : Làm Mới Chiến Lược Nội Dung: thử nghiệm các định dạng nội dung hấp dẫn hơn như video tương tác hoặc nội dung người dùng tạo ra, ngoài ra từ tháng 9 đến 12 lượt tương tác thấp phải cải thiện các chiến dịch quảng cáo trong thời gian này
+- Mùa cao điểm, chưa được khai thác : Tháng 1 đạt 17.31% — gần gấp đôi trung bình. Nếu ngân sách phân bổ đều 12 tháng, doanh nghiệp đang lãng phí 50% nguồn lực vào vùng thấp điểm (tháng 4–8, ~7.6%).
+- Nâng cao trải nghiệm & CSKH : Thiết lập hệ thống Auto-Alert (cảnh báo tự động) để chăm sóc ngay lập tức 82 khách hàng có đánh giá 'Tiêu cực'. Đồng thời gửi voucher xin lỗi để chuyển hóa nhóm 'Trung lập' thành 'Tích cực', phân loại nhóm khách hàng tiềm năng vào nhóm khách hàng trung thành trong thời gian tới.
 
 ---
 
